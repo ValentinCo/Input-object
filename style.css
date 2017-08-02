@@ -1,0 +1,10 @@
+#tableau td{
+	border:2px solid black;
+	border-collapse: collaps;
+}
+
+#tableau th {
+	border:2px solid red;
+	border-collapse: collaps;
+}
+
